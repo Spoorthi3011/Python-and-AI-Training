@@ -92,7 +92,7 @@ Python-and-AI-Training/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/Python-and-AI-Training.git
+git clone https://github.com/spoorthi3011/Python-and-AI-Training.git
 cd Python-and-AI-Training
 
 # 2. Install dependencies
