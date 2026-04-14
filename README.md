@@ -88,24 +88,3 @@ Python-and-AI-Training/
 
 ---
 
-## 🚀 How to Run
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/spoorthi3011/Python-and-AI-Training.git
-cd Python-and-AI-Training
-
-# 2. Install dependencies
-pip install pandas numpy matplotlib seaborn
-
-# 3. Run the analysis
-python titanic_eda.py
-```
-
-All three figures will be saved to the current directory.
-
----
-
-## 👤 spoorthi 
-
-AI Intern — *Python & AI Training Programme*
